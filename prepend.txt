@@ -11,4 +11,3 @@
  limitations under the License.
  */
 //Based on Arc90's readability.js (1.7.1) available at: http://code.google.com/p/arc90labs-readability
-
